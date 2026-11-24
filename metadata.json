@@ -1,0 +1,6 @@
+{
+  "name": "WayanadStays",
+  "description": "Exclusive Wayanad Tourism & Resort Directory and Self-Serve Resort Owner SEO & Ad-Tech Platform.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
